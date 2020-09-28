@@ -5,3 +5,9 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+
+Review.create(title: "Minecraft", content: "Good Game.")
+Review.create(title: "Starbound", content: "Fun to play with friends.")
+Review.create(title: "Pac-Man", content: "Old but a classic.")
+Review.create(title: "Checkers", content: "When you're really bored.")

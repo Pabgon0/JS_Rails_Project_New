@@ -1,0 +1,25 @@
+form {
+    display: block;
+    margin-top: 0em;
+    margin-block-end: 1em;
+    text-align:center;
+}
+
+html {
+    display: block;
+    background-color: rgb(197, 179, 209);
+}
+
+h2 {
+    color: purple;
+}
+
+li {
+    color: black;
+    font-weight: bold;
+}
+
+button.deletebtn {
+    position:absolute;
+    left: 30px;
+}
